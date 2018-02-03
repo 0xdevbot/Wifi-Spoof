@@ -1,0 +1,4 @@
+Target='1'
+Router='2'
+Right="arpspoof -i eth0 -t 2 1"
+Left="arpspoof -i eth0 -t 1 2"
