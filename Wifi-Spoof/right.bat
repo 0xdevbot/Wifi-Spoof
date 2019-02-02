@@ -1,5 +1,5 @@
 #!/bin/bash
 
-source /media/sf_Cast/Wifi-Spoof/Info.txt
+source /PATH/TO/FILE/Info.txt #<- change this to Info.txt Location
 echo $Right
 $Right
