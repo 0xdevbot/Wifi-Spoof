@@ -1,5 +1,5 @@
 #!/bin/bash
 
-source /PATH/TO/FILE/Info.txt #<- change this to your Info.txt location 
+source */Wifi-Spoof/Info.txt 
 echo $Left
 $Left
