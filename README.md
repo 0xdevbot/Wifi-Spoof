@@ -1,5 +1,5 @@
 # Wifi-Spoof
-This is a Python3 script made to run on Kali. Should simplify the Wifi-spoofing proccess. It should go without saying this software is intended for Ethical/White hat penetration testers. 
+This is a Python/bat script made to run on Kali. Should simplify the Wifi-spoofing proccess. It should go without saying this software is intended for Ethical/White hat penetration testers. 
 
 
 ## Usage
